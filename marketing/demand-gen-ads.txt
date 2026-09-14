@@ -1,0 +1,95 @@
+GOOGLE ADS - DEMAND GEN CAMPAIGN ASSETS
+Stillform - stillform.co - "Yoga, plainly taught."
+========================================================================
+
+NOTE: All copy below is a starting draft written for the Stillform brand.
+Review every line against current Google Ads editorial policy and against the
+advertiser own substantiated claims before running any of it. Character counts
+in brackets include spaces and were counted programmatically when this file
+was generated.
+
+BRAND VOICE FOR THIS SET
+------------------------------------------------------------------------
+Plain, warm and specific. Say the number rather than the adjective. Name the
+prop, the minute count or the body part. No hype, no promises about how
+someone will feel, no exclamation marks. If a line would sound strange said
+out loud by a teacher at the front of a room, it does not ship.
+
+========================================================================
+
+BUSINESS NAME (25 characters max, 1 asset)
+------------------------------------------------------------------------
+Stillform [9]
+HEADLINES (40 characters max, 15 assets)
+------------------------------------------------------------------------
+Yoga, Plainly Taught [20]
+Free Pose Guides, No Signup [27]
+Every Pose Has A Chair Version [30]
+Read The Pose Before You Try It [31]
+Ten Minutes Counts As Practice [30]
+Sequences With Real Hold Times [30]
+Yoga For People Starting At Zero [32]
+A Wall Works As Well As A Mat [29]
+Morning Yoga Before The Coffee [30]
+Eight Minutes At Your Desk [26]
+Evening Yoga On The Floor [25]
+Thirty Eight Poses, Indexed [27]
+Print It, Leave It By The Mat [29]
+Yoga Words, Explained Plainly [29]
+Gentle Practice, Nothing To Buy [31]
+LONG HEADLINES (90 characters max, 10 assets)
+------------------------------------------------------------------------
+Pose guides that say what to do, how long to hold it and how to breathe through it [82]
+Timed sequences from eight minutes to forty, each one printable on a single page [80]
+A chair, wall or block option is written into every shape, not bolted on afterwards [83]
+Thirty eight poses indexed by difficulty, by body area and by the prop that helps [81]
+Written instruction you read at your own speed, instead of a video you cannot pause [83]
+What to wear, what to buy and what to skip, answered before your first practice [79]
+Ten minutes of morning movement, finished before the rest of the house wakes up [79]
+Slow evening floor shapes with long supported holds and an unhurried exhale [75]
+Set up a practice corner in a small apartment using furniture you already own [77]
+Six class styles explained in plain English, so a studio timetable makes sense [78]
+DESCRIPTIONS (90 characters max, 10 assets)
+------------------------------------------------------------------------
+Free to read, no account and no paywall. Nothing free today moves behind one later [82]
+Steps, cues, breath counts and hold times, written the way a teacher would say them [83]
+Start with ten minutes. No mat, no class and no experience needed to begin [74]
+Chair and wall paths run pose for pose alongside the standing version [69]
+Every sequence lists its length, its difficulty and the props it actually needs [79]
+English and Sanskrit names throughout, with a pronunciation beside each one [75]
+Print a sequence onto one sheet and leave it at the edge of the mat [67]
+Written for practicing alone at home, with no studio within reach [65]
+Hatha, Vinyasa, Yin, Restorative, Iyengar and Ashtanga, one paragraph each [74]
+Build a practice around a full week, ten minutes at a time [58]
+CALL TO ACTION SUGGESTIONS (5 assets, from Google standard set)
+------------------------------------------------------------------------
+Learn more [10]
+Get started [11]
+Sign up [7]
+Subscribe [9]
+See more [8]
+
+========================================================================
+COMPLIANCE NOTES FOR THIS SET
+------------------------------------------------------------------------
+No all-caps words. No repeated or excessive punctuation. No emoji or gimmicky
+symbols. No reference to the ad itself. No superlatives and no unsubstantiated
+claims. No fake urgency, scarcity or countdowns. No health, medical or
+therapeutic claims. No weight-loss, calorie-burn, slimming or body
+transformation language. No competitor, studio, app or trademarked brand names.
+No certification, lineage or accreditation claims. No phone numbers. Every line
+is written to stand alone, because Google mixes assets automatically. Angles
+vary across the set: beginner starting points, short practices for busy
+schedules, morning and evening routines, habit building, desk and chair work,
+practice at home without equipment, and gentle or supported options.
+
+LANDING PAGE PAIRING
+------------------------------------------------------------------------
+Beginner and equipment angles  ->  start-here.html
+Named pose and Sanskrit angles ->  pose-library.html
+Minute-count and timer angles  ->  sequences.html
+Class format and jargon angles ->  styles-explained.html
+Chair, wall and prop angles    ->  props-guide.html
+
+Every landing page states that the guides are free to read, carries the
+funding disclosure and links to the health and safety disclaimer.
